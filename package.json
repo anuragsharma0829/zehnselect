@@ -1,0 +1,29 @@
+{
+  "name": "zehnselect",
+  "version": "1.0.0",
+  "description": "Complete Multiselect Dropdown ",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "index.css"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragsharma0829/zehnselect.git"
+  },
+  "keywords": [
+    "Dropdown"
+  ],
+  "author": "Anurag Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuragsharma0829/zehnselect/issues"
+  },
+  "homepage": "https://github.com/anuragsharma0829/zehnselect#readme"
+}
